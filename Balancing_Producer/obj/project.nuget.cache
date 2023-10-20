@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0T9f1nHDfredn9m6TOcecqG7zdAYJc6AUG2lhr5vxGWgT5zepyo+NyLyb95O/iR0DBwqfjmbUC11Ueb8Ts9dA==",
+  "success": true,
+  "projectFilePath": "/home/denis/RiderProjects/RabbitMQ/Balancing_Producer/Balancing_Producer.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/rabbitmq.client/6.6.0/rabbitmq.client.6.6.0.nupkg.sha512",
+    "/home/denis/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/denis/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

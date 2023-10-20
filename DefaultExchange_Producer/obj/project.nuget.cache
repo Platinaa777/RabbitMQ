@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6xP6vYkjXLWrYDGE8tiI1kEWm9G8aQ63jp3J2MS0DxQs+jxq7UD/clbbLEtWhp4nBmMEPj7dz7sIpgCcSjqtA==",
+  "success": true,
+  "projectFilePath": "/home/denis/RiderProjects/RabbitMQ/DefaultExchange_Producer/DefaultExchange_Producer.csproj",
+  "expectedPackageFiles": [
+    "/home/denis/.nuget/packages/rabbitmq.client/6.6.0/rabbitmq.client.6.6.0.nupkg.sha512",
+    "/home/denis/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/denis/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
